@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhiqiLinn
-- 🌱 I’m currently learning Web Development Stuff.
-- 💞️ I am looking to collaborate my skills in coding and explore more in thie field.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I am looking to improve my skills in coding and explore more in thie field.
 
 <!---
 ZhiqiLinn/ZhiqiLinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
