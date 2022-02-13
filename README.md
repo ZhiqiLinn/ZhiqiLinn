@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhiqiLinn
+- 👋 Hi, I’m Rena !!!! @ZhiqiLinn
 - 🌱 I’m currently learning Web Development.
 - 💞️ I am looking to improve my skills in coding and explore more in thie field.
 
