@@ -1,7 +1,15 @@
 
-👋 HELLO from Rena !!
+# 👋 HELLO from Rena !!
 
-📫 How to reach me **zhiqilinn@gmail.com**
+🎓 Full-stack software engineer graduated from App Academy. Experienced in fast-paced Bootcamp environment, with knowledge in web development skills. 
+
+🔎 I am seeking an enthusiastic software engineering team to work for that will provide me with interesting challenges that I can learn and improve on.
+
+⚡ Previously worked as a project engineer within a large general contracting company.
+
+😄 Effective leadership and technical qualities with proven full-stack software engineer skills and project management skills
+
+📫 Reach me via email: **zhiqilinn@gmail.com**
 
 💬 Click to view my <a href="https://www.linkedin.com/in/zhiqi-linn"> LinkedIn</a>
 
