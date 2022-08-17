@@ -1,7 +1,7 @@
 
 # 👋 HELLO from Rena !!
 
-🎓 Full-stack software engineer graduated from App Academy. Experienced in fast-paced Bootcamp environment, with knowledge in web development skills. 
+🎓 Full-stack software engineer graduated from App Academy. 
 
 🔎 I am seeking an enthusiastic software engineering team to work for that will provide me with interesting challenges that I can learn and improve on.
 
