@@ -15,7 +15,7 @@
 
 💬 Click to view my <a href="https://www.linkedin.com/in/zhiqi-linn"> LinkedIn</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiqilinn&" alt="zhiqilinn" color="black" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiqilinn&" alt="zhiqilinn" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
