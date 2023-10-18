@@ -1,11 +1,9 @@
 
 # 👋 HELLO from Rena !!
 
-🎓 Full-stack software engineer graduated from App Academy. 
+🎓 Full-stack/backend software engineer
 
 🔎 I am seeking an enthusiastic software engineering team to work for that will provide me with interesting challenges that I can learn and improve on.
-
-⚡ Previously worked as a project engineer within a large general contracting company.
 
 😄 Effective leadership and technical qualities with proven full-stack software engineer skills and project management skills
 
